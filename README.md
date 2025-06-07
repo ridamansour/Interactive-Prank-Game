@@ -14,7 +14,7 @@ Depending on your answer, you'll either be praised or teased—unless, of course
 
 ## Screenshot
 
-<img src="./screenshot.png" alt="App Screenshot" width="300"/>
+<img src="./screenshot.png" alt="App Screenshot" width="500"/>
 
 ## How to Run
 
