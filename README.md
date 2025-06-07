@@ -29,7 +29,7 @@ Depending on your answer, you'll either be praised or teased—unless, of course
    ```bash
    git clone https://github.com/yourusername/dummy-app.git
    cd dummy-app
-````
+```
 
 2. Compile and run:
 
