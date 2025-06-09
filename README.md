@@ -27,7 +27,7 @@ Depending on your answer, you'll either be praised or teased—unless, of course
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/dummy-app.git
+   git clone https://github.com/ridamansour/dummy-app.git
    cd dummy-app
    ```
 
