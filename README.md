@@ -7,9 +7,9 @@ Depending on your answer, you'll either be praised or teased—unless, of course
 
 - A playful GUI built with Java Swing
 - "Yes" and "No" buttons that react differently:
-  - Click "Yes": Receive a teasing response ❤️
+  - Click "Yes": Receive a teasing response :) 
   - Hover over "No": The button runs away (unless toggled)
-  - Click "No" (if you catch it!): Receive a smart compliment 😍
+  - Click "No" (if you catch it!): Receive a smart compliment ✨
 - Right-click anywhere to toggle the "No" button’s run-away behavior
 
 ## Screenshot
